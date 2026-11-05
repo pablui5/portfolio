@@ -9,7 +9,7 @@ Site pessoal com animações de scroll, tema claro/escuro e projetos em destaque
 
 - [Vextora](https://www.vextora.com.br)
 - [Fruity Corte](https://fruity-corte.onrender.com/)
-- [Lievito Pizzaria](https://lievito-pizzaria.onrender.com/)
+- [Pablo Pizzaria](https://lievito-pizzaria.onrender.com/)
 - [Pablo Móveis Planejados](https://pablo-moveis-planejados.onrender.com)
 - [Pablo Bolos](https://pablo-bolos.onrender.com)
 
